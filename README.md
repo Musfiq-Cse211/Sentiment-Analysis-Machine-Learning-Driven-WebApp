@@ -6,3 +6,4 @@ Developed a Sentiment Analysis web app using Flask and Python, focusing on Natur
 # Machine Learning: Scikit-learn, VADER Sentiment
 # Libraries: Flask, Sklearn, Requests, NLTK, RE, vaderSentiment
 # Features: End-to-End Sentiment Analysis, Cross-Platform Compatibility and Real-Time Analysis
+![Sentiment Analysis Result](https://github.com/user-attachments/assets/9d2515c9-231b-447c-b98a-7f5150d35874)
