@@ -1,0 +1,75 @@
+html, body {
+    background-color: #f0f4f8; /* Light gray-blue background */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333; /* Dark gray text color */
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+textarea.form-control {
+    font-size: 1.1em;
+    padding: 10px;
+    border-radius: 8px;
+    resize: none;
+    border: 1px solid #ced4da;
+    background-color: #ffffff; /* White background for textarea */
+    color: #333; /* Dark text color */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3, h4 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #001e3f; /* Dark blue for headers */
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+h3, h4 {
+    font-size: 1.3em;
+}
+
+form, .table-responsive {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff; /* White background for form and table */
+    border: 1px solid #d1d5db;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.table thead th {
+    font-size: 1em;
+    text-align: center;
+    background-color: #004085; /* Dark blue header */
+    color: #ffffff; /* White text in header */
+}
+
+.table-bordered td, .table-bordered th {
+    text-align: center;
+    vertical-align: middle;
+    color: #333; /* Dark text color for table content */
+}
+
+.btn-success {
+    background-color: #004085; /* Dark blue button background */
+    border: none;
+    transition: all 0.3s ease;
+    font-size: 1.1em;
+    color: #ffffff; /* White text */
+}
+
+.btn-success:hover {
+    background-color: #002752; /* Darker blue on hover */
+}
+
+.bg-success {
+    background-color: #004085 !important; /* Dark blue for background */
+}
+
+.text-center {
+    text-align: center;
+}
